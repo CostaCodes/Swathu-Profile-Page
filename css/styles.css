@@ -1096,7 +1096,7 @@ footer .main .right span {
 
     #first-section .background {
         height: 150px;
-        padding-top: 65px;
+        padding-top: 90px;
     }
 
     #first-section .background img {
@@ -1114,6 +1114,10 @@ footer .main .right span {
     #first-section .main .right-section {
         width: 100%;
         margin-top: 30px;
+    }
+
+    #first-section .main .right-section .text {
+        padding-top: 20px;
     }
 
     #first-section .main .right-section .text h2 {
