@@ -1154,7 +1154,7 @@ footer .main .right span {
     }
 
     #second-section .lab {
-        height: 250px;
+        height: 300px;
         display: flex;
         flex-wrap: wrap;
         grid-template-columns: 50%;
