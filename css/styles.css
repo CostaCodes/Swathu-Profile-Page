@@ -1154,10 +1154,7 @@ footer .main .right span {
     }
 
     #second-section .lab {
-        height: 300px;
-        display: flex;
-        flex-wrap: wrap;
-        grid-template-columns: 50%;
+        display: none;
     }
 
     #second-section .lab .img img {
